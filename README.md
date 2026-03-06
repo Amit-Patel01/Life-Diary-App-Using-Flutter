@@ -23,7 +23,10 @@
 **Daily Diary App** is a beautiful Flutter application that allows you to write and manage your personal diary entries with cloud backup support via Google Drive. It features a modern Material Design 3 interface with customizable themes and background colors.
 
 ---
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDN5bWhhNGwzdjgyYTNwcTQ3cTB3YTByYW1pbWdxMDl4NTlkbzNtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/39eD4985NQilCrK60J/giphy.gif" width="400"/>
+</p>
 
+---
 ## ✨ Features
 
 ### Core Features
